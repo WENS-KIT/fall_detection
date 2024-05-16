@@ -1,5 +1,5 @@
-# Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection
-Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection
+# Implementation of Fall Detection Based on CNN
+Implementation of Fall Detection Based on CNN
 
 ![Logo_for_Git](https://github.com/WENS-KIT/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/96454461/c66d7644-a9b7-4d77-a0db-46105f4b0aaa)
 <!-- change the link of the logo which on your repo. -->
